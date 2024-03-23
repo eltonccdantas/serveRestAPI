@@ -4,7 +4,8 @@
   "description": "Testes Automatizados de API",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "npx cypress run"
   },
   "repository": {
     "type": "git",
